@@ -1,0 +1,55 @@
+意图识别评测报告 (dialogue_framework / 单轮模式)
+生成时间: 2026-06-01 10:05:44
+模型: aliyun/deepseek-v4-flash
+
+样本总数: 175
+预测正确: 0
+准确率  : 0.00%
+解析/标签异常: 175  (其中 API 错误: 175)
+
+--- 分类指标 (per class) ---
+label              precision    recall      f1   support
+bond_inquiry           0.000     0.000   0.000        36
+bond_query             0.000     0.000   0.000        54
+bond_selection         0.000     0.000   0.000         3
+chat                   0.000     0.000   0.000        62
+transfer_human         0.000     0.000   0.000        20
+
+--- 混淆矩阵 (行=真实, 列=预测) ---
+                 <ERROR>
+bond_inquiry          36
+bond_query            54
+bond_selection         3
+chat                  62
+transfer_human        20
+
+--- 调用延迟 (ms) ---
+  mean = 210   p50 = 115   p90 = 164   p99 = 3381   max = 3437
+
+--- 调用统计 ---
+  总请求数: 175   重试次数: 350 (重试率 200.0%)   失败次数: 175
+
+--- Token 消耗 ---
+                      总计        均值        最大
+  prompt               0         0         0
+  completion           0         0         0
+  total                0         0         0
+
+--- bond_query 细分订单状态 (order_status) ---
+  评测样本(gold=bond_query): 54
+  状态判对: 0
+  状态准确率: 0.00%
+  混淆矩阵 (行=真实状态, 列=预测):
+                <意图判错>
+all                 33
+pending              9
+completed           12
+
+--- bond_inquiry 撤单细分 (cancel_scope) ---
+  评测样本(撤单 gold): 17
+  细分判对: 0
+  细分准确率: 0.00%
+  混淆矩阵 (行=真实, 列=预测):
+                <意图判错>
+all                  7
+specified           10

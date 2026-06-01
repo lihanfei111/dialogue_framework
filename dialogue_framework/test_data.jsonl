@@ -1,0 +1,175 @@
+{"text": "你好", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "今天天气什么情况", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "hi", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "210210行情", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你是谁", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "价格太差了", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "介绍一下自己", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你用了多少加减点", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "做一个自我介绍", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你们手续费是多少", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "bid", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你们pb吃多少点", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你给推荐一下", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "用的是什么策略", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你们有些什么债券", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你们上游叫什么", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "债券5要素是指哪些", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "怎么联系你们", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "今天行情如何", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你们内部系统叫什么", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "那你给我一份市场报告", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "底层架构是java还是c+", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "25国债", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "我问的是债券 210210 行情", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "19793", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "我们成交后，去外汇中心结算吗", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "价格没有", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "bid是什么意思", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "价格合适就行", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "清算时间是什么格式", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "市价", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "我用净价还是收益率", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "2026-03-01 00:00:00", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "报价", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "询价", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你需要什么样格式的报价", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你们那个券最活跃", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "你把你们有的债券报价整理一份发我", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "怎么没有价格", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "还没整理好吗", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "报价板官方网址", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "晴天，我出门打伞是为什么", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "有什么债券可以报价", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "210210 bid 看看行情", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "210210 bid 5k帮我成交", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "帮我报个价", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "利率债怎么交易", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "uat 204的ws服务我这边可以关一下吗", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "国债怎么交易", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 220007.IB 2D  1.9003 4000万 今+1 aaa", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "203D Bid 220007.IB   1.9003 4000万 今+1 aaa", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 220007.IB  203D 1.9003 4000万 今+1 aaa", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 220007.IB  3M 1.9003 4000万 今+1 aaa", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 220007.IB  6.3Y 1.9003 4000万 今+1 aaa", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 220007.IB   1.9003    4000万   1.213Y 今+1 订单有效期3min", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 220007.IB   4000万   1.213年 今+1 订单有效期3min", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 220007.IB   4000万   1.231Y  今+1 订单有效期3min", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 220007.IB   4000万   1.231y  今+1 订单有效期3min", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "爱的赛  Bid 220007.IB   4000万   1.231y  今+1 订单有效期3min", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "2.272%  ofr 2500006 1E 明天+0", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "2.272%  ofr 250006 1E 明天+0", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "ref", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "all", "source": "excel"}
+{"text": "ref all", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "all", "source": "excel"}
+{"text": "撤单", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "all", "source": "excel"}
+{"text": "all ref", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "all", "source": "excel"}
+{"text": "ref 债券", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "excel"}
+{"text": "ref 方向", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "excel"}
+{"text": "ref 价格", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "excel"}
+{"text": "ref 量", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "excel"}
+{"text": "ref 清算时间", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "excel"}
+{"text": "帮我撤单", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "all", "source": "excel"}
+{"text": "ref 清算时间+量", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "excel"}
+{"text": "ref 清算时间+量+方向", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "excel"}
+{"text": "ref 清算时间+量+方向+价格", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "excel"}
+{"text": "订单", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "我的订单", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "订单怎么样", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "我的报单", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "我的报价", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "我今天有什么单", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "今日订单成交情况", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "看看今日的全部操作", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "查询今日操作记录", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "查询订单", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "订单状态", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "我的订单到哪一步了", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "成了吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "撤了吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "成交情况", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "excel"}
+{"text": "我之前的买入操作是否成功了", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "我之前的卖出操作是否成功了", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "我的单子还没成交吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "为什么还没成交", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "我的单子挂上了吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "（债券代码）挂上了吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "我撤单成功了吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "查询已成交订单", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "查询已撤单订单", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "查询进行中订单", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "excel"}
+{"text": "帮我看看还有没有没成交的订单", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "excel"}
+{"text": "在挂订单有哪些", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "excel"}
+{"text": "成了的订单有哪些", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "bid在挂有哪些单？", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "excel"}
+{"text": "ofr在挂有哪些单？", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "excel"}
+{"text": "请汇总今天已完成的订单", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "交易汇总", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "汇总交易", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "交易情况", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "交易状态", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "买入/卖出操作是否执行", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "今天成交了多少", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "成了多少单", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "交易怎么样", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "之前的操作/订单/交易都好了吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "交易顺利吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "成交记录", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "excel"}
+{"text": "交易记录", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "交易/订单明细", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "查询交易/交易查询", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "excel"}
+{"text": "修改发XX请求", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "改为发XX请求", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "更改发XX请求", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "发我请求（需识别客户身份）", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "发XX请求", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "请求对象需要改一下", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "改一下请求对象", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "更改请求对象", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "修改请求对象", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "更换请求对象", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "请求对象有问题", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "能改请求对象吗", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "人工", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "客服", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "转人工", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "人工客服", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "excel"}
+{"text": "Bid 200012.IB 8000万 2.88 今+1", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "ofr 240205 6000万 2.31 T+0", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "卖 230026.IB 5亿 2.55 后天交割", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "2.65 bid 190015 2000万", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "bid 200012.IB 8000万", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "240205 ofr 2.31", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "买点 230026 3亿", "intent": "bond_inquiry", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "把我的单都撤了", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "all", "source": "generated"}
+{"text": "撤销全部挂单", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "all", "source": "generated"}
+{"text": "ref 200012.IB", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "generated"}
+{"text": "ref ofr 6000万", "intent": "bond_inquiry", "order_status": null, "cancel_scope": "specified", "source": "generated"}
+{"text": "我的单都什么情况", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "generated"}
+{"text": "今天交易做得如何", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "generated"}
+{"text": "我的操作都还顺吗", "intent": "bond_query", "order_status": "all", "cancel_scope": null, "source": "generated"}
+{"text": "有哪些还挂着没成", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "generated"}
+{"text": "没成交的还剩几个", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "generated"}
+{"text": "在挂的有几单", "intent": "bond_query", "order_status": "pending", "cancel_scope": null, "source": "generated"}
+{"text": "成了的有哪几笔", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "generated"}
+{"text": "今天撮合成功多少", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "generated"}
+{"text": "已经成交的单", "intent": "bond_query", "order_status": "completed", "cancel_scope": null, "source": "generated"}
+{"text": "帮我选两只5年期地方债", "intent": "bond_selection", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "推荐几只流动性好的国开债", "intent": "bond_selection", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "筛一下收益率3以上的信用债", "intent": "bond_selection", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "接通人工", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "我想找客服", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "把请求改一下接收方", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "发到人工处理吧", "intent": "transfer_human", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "早上好", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "忙吗", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "ofr 是什么", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "T+0 啥意思", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "200012 最近怎么走", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "今天债市行情", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "你们加多少点", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "有什么券能报价", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "报价单整理好了没", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "这报价不行啊", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "给个建议", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "哪个好", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}
+{"text": "ofr", "intent": "chat", "order_status": null, "cancel_scope": null, "source": "generated"}

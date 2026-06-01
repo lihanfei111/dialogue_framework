@@ -1,0 +1,962 @@
+[
+  {
+    "text": "Bid 240008.IB 5000万 2.1050 今+0",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": "240008.IB",
+        "direction": "bid",
+        "price": "2.1050",
+        "amount": "5000万",
+        "settle_date": "今+0",
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "ofr 230018 3000万 2.45 T+1",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": "230018",
+        "direction": "ofr",
+        "price": "2.45",
+        "amount": "3000万",
+        "settle_date": "T+1",
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "买 220015.IB 1个亿 1.85 明天+0",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": "220015.IB",
+        "direction": "bid",
+        "price": "1.85",
+        "amount": "1个亿",
+        "settle_date": "明天+0",
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "2.272% ofr 250016 1E 后天+0",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": "250016",
+        "direction": "ofr",
+        "price": "2.272%",
+        "amount": "1E",
+        "settle_date": "后天+0",
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "bid 240008.IB 5000万",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": "240008.IB",
+        "direction": "bid",
+        "price": null,
+        "amount": "5000万",
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "ofr 230018 2.45",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": "230018",
+        "direction": "ofr",
+        "price": "2.45",
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "230018 bid 3k帮我成交",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": "230018",
+        "direction": "bid",
+        "price": null,
+        "amount": "3k",
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "我要撤个单",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": "all"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "ref 一下",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": "all"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "全部 ref 掉",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": "all"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "帮我把单子撤掉",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": "all"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "ref 240008.IB",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": "240008.IB",
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": "specified"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "ref 方向+量+价格",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": "specified"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "ref 价格+清算时间",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": "specified"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "ref bid 5000万",
+    "output": {
+      "intent": "bond_inquiry",
+      "slots": {
+        "bond_code": null,
+        "direction": "bid",
+        "price": null,
+        "amount": "5000万",
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": "specified"
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "看看我今天的报单",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "all",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "我今天做了哪些单",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "all",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "今天的交易情况",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "all",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "交易还算顺吧",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "all",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "汇总一下我的交易",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "all",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "我的操作记录",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "all",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "还在挂的单有哪些",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "pending",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "有没有还没成交的",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "pending",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "我还有多少单没成",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "pending",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "挂着的订单",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "pending",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "今天成了哪些",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "completed",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "成功撮合的单子",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "completed",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "我今天成交了几笔",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "completed",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "看看已经成的",
+    "output": {
+      "intent": "bond_query",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": "completed",
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "帮我选只3年期国债",
+    "output": {
+      "intent": "bond_selection",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "推荐几只活跃的利率债",
+    "output": {
+      "intent": "bond_selection",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "按收益率筛一下5年以内的债",
+    "output": {
+      "intent": "bond_selection",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "帮我挑两只高评级信用债",
+    "output": {
+      "intent": "bond_selection",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "转一下人工",
+    "output": {
+      "intent": "transfer_human",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "我要联系人工客服",
+    "output": {
+      "intent": "transfer_human",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "帮我改一下请求对象",
+    "output": {
+      "intent": "transfer_human",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "把请求发给人工处理",
+    "output": {
+      "intent": "transfer_human",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "更换一下请求接收方",
+    "output": {
+      "intent": "transfer_human",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "请求对象不对啊",
+    "output": {
+      "intent": "transfer_human",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "你好啊",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "在不在",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "辛苦啦",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "bid 是什么意思",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": "bid",
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "清算时间怎么填",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "净价和全价有什么区别",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "我应该用收益率还是净价报",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "240008 现在行情怎么样",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": "240008",
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "今天市场氛围如何",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "25国债是哪一只",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "你们用的什么定价策略",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "手续费怎么算",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "你们现在有哪些券能报",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "报价整理好了发我",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "这价格太差了吧",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "怎么半天没有报价",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "成交也太慢了",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "有什么好的推荐吗",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "哪只最活跃",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "询个价",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  },
+  {
+    "text": "报个价格",
+    "output": {
+      "intent": "chat",
+      "slots": {
+        "bond_code": null,
+        "direction": null,
+        "price": null,
+        "amount": null,
+        "settle_date": null,
+        "order_status": null,
+        "cancel_scope": null
+      },
+      "confidence": 0.95
+    }
+  }
+]

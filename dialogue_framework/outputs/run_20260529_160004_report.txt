@@ -1,0 +1,55 @@
+意图识别评测报告 (dialogue_framework / 单轮模式)
+生成时间: 2026-05-29 16:02:56
+模型: qwen-max
+
+样本总数: 175
+预测正确: 172
+准确率  : 98.29%
+解析/标签异常: 0  (其中 API 错误: 0)
+
+--- 分类指标 (per class) ---
+label              precision    recall      f1   support
+bond_inquiry           0.973     1.000   0.986        36
+bond_query             0.981     0.981   0.981        54
+bond_selection         1.000     1.000   1.000         3
+chat                   0.984     0.968   0.976        62
+transfer_human         1.000     1.000   1.000        20
+
+--- 混淆矩阵 (行=真实, 列=预测) ---
+                   bond_inquiry     bond_query bond_selection           chat transfer_human
+bond_inquiry                 36              0              0              0              0
+bond_query                    0             53              0              1              0
+bond_selection                0              0              3              0              0
+chat                          1              1              0             60              0
+transfer_human                0              0              0              0             20
+
+--- 调用延迟 (ms) ---
+  mean = 4811   p50 = 4389   p90 = 7300   p99 = 12120   max = 12987
+
+--- 调用统计 ---
+  总请求数: 175   重试次数: 0 (重试率 0.0%)   失败次数: 0
+
+--- Token 消耗 ---
+                      总计        均值        最大
+  prompt          527240      3013      3123
+  completion       10793        62        83
+  total           538033      3074      3204
+
+--- bond_query 细分订单状态 (order_status) ---
+  评测样本(gold=bond_query): 54
+  状态判对: 46
+  状态准确率: 85.19%
+  混淆矩阵 (行=真实状态, 列=预测):
+             <INVALID>    <意图判错>       all completed   pending
+all                  0         1        28         1         3
+pending              1         0         1         0         7
+completed            0         0         1        11         0
+
+--- bond_inquiry 撤单细分 (cancel_scope) ---
+  评测样本(撤单 gold): 17
+  细分判对: 17
+  细分准确率: 100.00%
+  混淆矩阵 (行=真实, 列=预测):
+                   all specified
+all                  7         0
+specified            0        10
